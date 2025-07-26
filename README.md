@@ -21,8 +21,3 @@ A seasoned Front End Software Engineer with over 15 years of proven success in d
 - Learning Software Architecture and design patterns.
 - Going deeper Into GraphQL and the Ingredients that make It great.
 - Building server-side applications with Node.js.
-
-
-## 📬 Get in Touch
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. [LinkedIn](https://www.linkedin.com/in/hugonaili/)
